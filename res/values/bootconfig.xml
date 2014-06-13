@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="remoteAccessConsumerKey">3MVG9A2kN3Bn17huyKOzGIrrZsegwf_g.dUnh8_Is6gcki7ODX5gGZuJpGI6KyQnzD5z79Z1i_XIGbYXLQjbF</string>
+    <string name="oauthRedirectURI">lh0083://hello.com</string>
+    <string-array name="oauthScopes">
+        <item>chatter_api</item>
+    </string-array>
+    <string name="androidPushNotificationClientId"></string>
+</resources>
